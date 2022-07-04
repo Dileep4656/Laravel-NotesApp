@@ -12,6 +12,7 @@ class NoteController extends Controller
 
     /**
      * @return \Illuminate\Http\Resources\Json\AnonymousResourceCollection
+	 * This is the Notes module controller which are responsible for loading notes and adding 
      */
     public function getAllNotes()
     {

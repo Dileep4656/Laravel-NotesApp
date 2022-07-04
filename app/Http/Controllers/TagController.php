@@ -22,6 +22,7 @@ class TagController extends Controller
      * @param TagRequest $request
      * 
      * @return \Illuminate\Http\JsonResponse
+	 * This is the Tages module controller which is responsible to add and delete tags 
      */
     public function addTag(TagRequest $request)
     {

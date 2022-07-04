@@ -4,6 +4,7 @@
 
 /*
     import vue and vue route
+	This are routs from frontend to middleware controllers
  */
 
 import Vue from 'vue'

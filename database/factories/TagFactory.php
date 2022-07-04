@@ -4,6 +4,8 @@ namespace Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
 
+// this is a feeder for tags
+
 class TagFactory extends Factory
 {
     /**

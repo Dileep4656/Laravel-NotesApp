@@ -5,6 +5,8 @@ namespace Database\Factories;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
 
+// this is a feeder for notes
+
 class NoteFactory extends Factory
 {
     /**

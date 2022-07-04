@@ -10,6 +10,7 @@ class Tags extends Migration
      * Run the migrations.
      *
      * @return void
+	 * This is tags table creation in DB
      */
     public function up()
     {

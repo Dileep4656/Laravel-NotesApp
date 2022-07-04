@@ -10,6 +10,7 @@ class NoteTag extends Migration
      * Run the migrations.
      *
      * @return void
+	 * This is notes and tages mapping table creation in DB
      */
     public function up()
     {

@@ -10,6 +10,7 @@ class Notes extends Migration
      * Run the migrations.
      *
      * @return void
+	 * This is notes table creation in DB
      */
     public function up()
     {

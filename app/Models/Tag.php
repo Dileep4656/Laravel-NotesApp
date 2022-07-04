@@ -13,6 +13,7 @@ class Tag extends Model
      * The attributes that are mass assignable.
      *
      * @var array
+	 * This is a  model for Tages table
      */
     protected $fillable = ['tag_name'];
 
